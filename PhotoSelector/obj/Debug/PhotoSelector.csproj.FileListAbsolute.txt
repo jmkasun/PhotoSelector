@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2015\Projects\PhotoSelector\PhotoSelector\bin\Debug\PhotoSelector.exe.config
+c:\users\user\documents\visual studio 2015\Projects\PhotoSelector\PhotoSelector\bin\Debug\PhotoSelector.exe
+c:\users\user\documents\visual studio 2015\Projects\PhotoSelector\PhotoSelector\bin\Debug\PhotoSelector.pdb
+c:\users\user\documents\visual studio 2015\Projects\PhotoSelector\PhotoSelector\obj\Debug\PhotoSelector.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\PhotoSelector\PhotoSelector\obj\Debug\PhotoSelector.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\PhotoSelector\PhotoSelector\obj\Debug\PhotoSelector.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\PhotoSelector\PhotoSelector\obj\Debug\PhotoSelector.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\PhotoSelector\PhotoSelector\obj\Debug\PhotoSelector.exe
+c:\users\user\documents\visual studio 2015\Projects\PhotoSelector\PhotoSelector\obj\Debug\PhotoSelector.pdb
+D:\Projects Kasun\PhotoSelector\PhotoSelector\bin\Debug\PhotoSelector.exe.config
+D:\Projects Kasun\PhotoSelector\PhotoSelector\obj\Debug\PhotoSelector.exe
+D:\Projects Kasun\PhotoSelector\PhotoSelector\obj\Debug\PhotoSelector.pdb
+D:\Projects Kasun\PhotoSelector\PhotoSelector\bin\Debug\PhotoSelector.exe
+D:\Projects Kasun\PhotoSelector\PhotoSelector\bin\Debug\PhotoSelector.pdb
+D:\Projects Kasun\PhotoSelector\PhotoSelector\obj\Debug\PhotoSelector.csprojResolveAssemblyReference.cache
+D:\Projects Kasun\PhotoSelector\PhotoSelector\obj\Debug\PhotoSelector.Form1.resources
+D:\Projects Kasun\PhotoSelector\PhotoSelector\obj\Debug\PhotoSelector.Properties.Resources.resources
+D:\Projects Kasun\PhotoSelector\PhotoSelector\obj\Debug\PhotoSelector.csproj.GenerateResource.Cache
